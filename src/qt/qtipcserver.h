@@ -1,8 +1,8 @@
 #ifndef QTIPCSERVER_H
 #define QTIPCSERVER_H
 
-// Define FuelCoin-Qt message queue name
-#define BITCOINURI_QUEUE_NAME "FuelCoinURI"
+// Define Fuelcoin-Qt message queue name
+#define BITCOINURI_QUEUE_NAME "FuelcoinURI"
 
 void ipcScanRelay(int argc, char *argv[]);
 void ipcInit(int argc, char *argv[]);

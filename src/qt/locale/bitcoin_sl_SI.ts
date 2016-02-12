@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About hackcoin</source>
-        <translation>O hackcoin</translation>
+        <source>About Fuelcoin</source>
+        <translation>O Fuelcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;hackcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;hackcoin&lt;/b&gt; verzija</translation>
+        <source>&lt;b&gt;Fuelcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Fuelcoin&lt;/b&gt; verzija</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The hackcoin developers</source>
+Copyright © 2014 The Fuelcoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -63,8 +63,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your hackcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>To so vaši hackcoin naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
+        <source>These are your Fuelcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>To so vaši Fuelcoin naslovi za prejemanje plačil. Priporočeno je da vsakemu pošiljatelju namenite drugega in tako dobite večji pregled nad svojimi nakazili.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -78,8 +78,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a hackcoin address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva hackcoin naslova</translation>
+        <source>Sign a message to prove you own a Fuelcoin address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva Fuelcoin naslova</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -93,8 +93,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified hackcoin address</source>
-        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim hackcoin naslovom</translation>
+        <source>Verify a message to ensure it was signed with a specified Fuelcoin address</source>
+        <translation>Potrdi sporočilo, da zagotovite, da je bilo podpisano z izbranim Fuelcoin naslovom</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -261,8 +261,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-58"/>
-        <source>hackcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>hackcoin se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
+        <source>Fuelcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Fuelcoin se bo sedaj zaprl, da dokonča proces šifriranje. Pomnite, da tudi šifriranje vaše denarnice ne more v celoti zaščititi vaših kovancev pred krajo z zlonamernimi programi in računalniškimi virusi, če ti okužijo vaš računalnik.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -375,8 +375,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about hackcoin</source>
-        <translation>Pokaži informacije o hackcoin</translation>
+        <source>Show information about Fuelcoin</source>
+        <translation>Pokaži informacije o Fuelcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -425,13 +425,13 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a hackcoin address</source>
-        <translation>Pošlji kovance na hackcoin naslov</translation>
+        <source>Send coins to a Fuelcoin address</source>
+        <translation>Pošlji kovance na Fuelcoin naslov</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for hackcoin</source>
-        <translation>Spremeni nastavitve za hackcoin</translation>
+        <source>Modify configuration options for Fuelcoin</source>
+        <translation>Spremeni nastavitve za Fuelcoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -470,8 +470,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-202"/>
-        <source>hackcoin</source>
-        <translation>hackcoin</translation>
+        <source>Fuelcoin</source>
+        <translation>Fuelcoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -480,8 +480,8 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About hackcoin</source>
-        <translation>&amp;O hackcoin</translation>
+        <source>&amp;About Fuelcoin</source>
+        <translation>&amp;O Fuelcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -537,13 +537,13 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>hackcoin client</source>
-        <translation>hackcoin program</translation>
+        <source>Fuelcoin client</source>
+        <translation>Fuelcoin program</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to hackcoin network</source>
-        <translation><numerusform>%n aktivne povezave na hackcoin omrežje</numerusform><numerusform>%n aktivnih povezav na hackcoin omrežje</numerusform><numerusform>%n aktivnih povezav na hackcoin omrežje</numerusform><numerusform>%n aktivnih povezav na hackcoin omrežje</numerusform></translation>
+        <source>%n active connection(s) to Fuelcoin network</source>
+        <translation><numerusform>%n aktivne povezave na Fuelcoin omrežje</numerusform><numerusform>%n aktivnih povezav na Fuelcoin omrežje</numerusform><numerusform>%n aktivnih povezav na Fuelcoin omrežje</numerusform><numerusform>%n aktivnih povezav na Fuelcoin omrežje</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -582,12 +582,12 @@ Ta proizvod vključuje softver razvit s strani projekta OpenSSL za uporabo v Ope
     </message>
     <message>
         <location line="-312"/>
-        <source>About hackcoin card</source>
+        <source>About Fuelcoin card</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about hackcoin card</source>
+        <source>Show information about Fuelcoin card</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -667,8 +667,8 @@ Naslov: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid hackcoin address or malformed URI parameters.</source>
-        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega hackcoin naslova ali slabih parametrov URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Fuelcoin address or malformed URI parameters.</source>
+        <translation>URI ne more biti razčlenjen! To se lahko zgodi zaradi neveljavnega Fuelcoin naslova ali slabih parametrov URI.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -727,8 +727,8 @@ Naslov: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. hackcoin can no longer continue safely and will quit.</source>
-        <translation>Prišlo je do usodne napake. Program hackcoin se ne more več varno nadaljevati in se bo zato zaprl. </translation>
+        <source>A fatal error occurred. Fuelcoin can no longer continue safely and will quit.</source>
+        <translation>Prišlo je do usodne napake. Program Fuelcoin se ne more več varno nadaljevati in se bo zato zaprl. </translation>
     </message>
 </context>
 <context>
@@ -1061,8 +1061,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid hackcoin address.</source>
-        <translation>Vneseni naslov &quot;%1&quot; ni veljaven hackcoin naslov.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Fuelcoin address.</source>
+        <translation>Vneseni naslov &quot;%1&quot; ni veljaven Fuelcoin naslov.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1080,8 +1080,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>hackcoin-Qt</source>
-        <translation>hackcoin-Qt</translation>
+        <source>Fuelcoin-Qt</source>
+        <translation>Fuelcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1153,13 +1153,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start hackcoin after logging in to the system.</source>
-        <translation>Avtomatično zaženi hackcoin ob zagonu sistema.</translation>
+        <source>Automatically start Fuelcoin after logging in to the system.</source>
+        <translation>Avtomatično zaženi Fuelcoin ob zagonu sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start hackcoin on system login</source>
-        <translation>&amp;Zaženi hackcoin ob prijavi v sistem</translation>
+        <source>&amp;Start Fuelcoin on system login</source>
+        <translation>&amp;Zaženi Fuelcoin ob prijavi v sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1178,8 +1178,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the hackcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avtomatično odpri vrata na routerju za hackcoin program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
+        <source>Automatically open the Fuelcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avtomatično odpri vrata na routerju za Fuelcoin program. To deluje le če vaš router podpira UPnP in je ta omogočen. </translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1188,8 +1188,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the hackcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Poveži se na hackcoin omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
+        <source>Connect to the Fuelcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Poveži se na Fuelcoin omrežje skozi SOCKS proxy (npr. ko se povezujete prek Tora)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1263,8 +1263,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting hackcoin.</source>
-        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu hackcoin aplikacije. </translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Fuelcoin.</source>
+        <translation>Tu lahko nastavite jezik uporabniškega vmesnika. Nastavitve bodo pričele delovati ob ponovnem zagonu Fuelcoin aplikacije. </translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1278,8 +1278,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show hackcoin addresses in the transaction list or not.</source>
-        <translation>Izbira prikaza hackcoin naslovov v seznamu transakcij.</translation>
+        <source>Whether to show Fuelcoin addresses in the transaction list or not.</source>
+        <translation>Izbira prikaza Fuelcoin naslovov v seznamu transakcij.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1325,8 +1325,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting hackcoin.</source>
-        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu hackcoin aplikacije</translation>
+        <source>This setting will take effect after restarting Fuelcoin.</source>
+        <translation>Ta nastavitev bo pričela delovati ob ponovnem zagonu Fuelcoin aplikacije</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1344,8 +1344,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the hackcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z hackcoin omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Fuelcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazane informacije so morda zastarele. Vaša denarnica se avtomatično sinhronizira z Fuelcoin omrežjem, ko je vzpostavljena povezava, toda ta proces še ni bil zaključen.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1560,8 +1560,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the hackcoin-Qt help message to get a list with possible hackcoin command-line options.</source>
-        <translation>Prikaži hackcoin-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice hackcoin aplikacije</translation>
+        <source>Show the Fuelcoin-Qt help message to get a list with possible Fuelcoin command-line options.</source>
+        <translation>Prikaži Fuelcoin-Qt sporočilo za pomoč , ki prikaže vse možnosti ukazne vrstice Fuelcoin aplikacije</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1580,13 +1580,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>hackcoin - Debug window</source>
-        <translation>hackcoin - okno za odpravljanje napak</translation>
+        <source>Fuelcoin - Debug window</source>
+        <translation>Fuelcoin - okno za odpravljanje napak</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>hackcoin Core</source>
-        <translation>hackcoin jedro</translation>
+        <source>Fuelcoin Core</source>
+        <translation>Fuelcoin jedro</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1595,8 +1595,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the hackcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Odpri hackcoin datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
+        <source>Open the Fuelcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Odpri Fuelcoin datoteko zapisov odpravljanja napak iz trenutnega direktorija podatkov. Če so datoteke zapisov velike, to lahko traja nekaj sekund.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1605,8 +1605,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the hackcoin RPC console.</source>
-        <translation>Dobrodošli v hackcoin RPC konzoli.</translation>
+        <source>Welcome to the Fuelcoin RPC console.</source>
+        <translation>Dobrodošli v Fuelcoin RPC konzoli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1764,8 +1764,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a hackcoin address (e.g. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Vnesite hackcoin naslov (e.g. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Fuelcoin address (e.g. FuelcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Vnesite Fuelcoin naslov (e.g. FuelcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1864,8 +1864,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid hackcoin address</source>
-        <translation>OPOZORILO: Neveljaven hackcoin naslov</translation>
+        <source>WARNING: Invalid Fuelcoin address</source>
+        <translation>OPOZORILO: Neveljaven Fuelcoin naslov</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1908,8 +1908,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Naslov kamor želite poslati plačilo (e.g. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to send the payment to  (e.g. FuelcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Naslov kamor želite poslati plačilo (e.g. FuelcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1938,8 +1938,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a hackcoin address (e.g. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Vnesite hackcoin naslov (npr. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Fuelcoin address (e.g. FuelcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Vnesite Fuelcoin naslov (npr. FuelcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1962,8 +1962,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Naslov s katerim želite podpisati sporočilo (npr. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to sign the message with (e.g. FuelcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Naslov s katerim želite podpisati sporočilo (npr. FuelcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1999,8 +1999,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this hackcoin address</source>
-        <translation>Podpišite sporočilo, kot dokazilo lastništva hackcoin naslova</translation>
+        <source>Sign the message to prove you own this Fuelcoin address</source>
+        <translation>Podpišite sporočilo, kot dokazilo lastništva Fuelcoin naslova</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2026,13 +2026,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Naslov s katerim je bilo podpisano sporočilo (npr. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address the message was signed with (e.g. FuelcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Naslov s katerim je bilo podpisano sporočilo (npr. FuelcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified hackcoin address</source>
-        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim hackcoin naslovom</translation>
+        <source>Verify the message to ensure it was signed with the specified Fuelcoin address</source>
+        <translation>Potrdite sporočilo, da zagotovite, da je bilo podpisano z izbranim Fuelcoin naslovom</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2042,8 +2042,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a hackcoin address (e.g. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Vnesite hackcoin naslov (npr. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Fuelcoin address (e.g. FuelcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Vnesite Fuelcoin naslov (npr. FuelcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2052,8 +2052,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter hackcoin signature</source>
-        <translation>Vnesite hackcoin podpis</translation>
+        <source>Enter Fuelcoin signature</source>
+        <translation>Vnesite Fuelcoin podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2623,8 +2623,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>hackcoin version</source>
-        <translation>hackcoin različica</translation>
+        <source>Fuelcoin version</source>
+        <translation>Fuelcoin različica</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2633,7 +2633,7 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or hackcoind</source>
+        <source>Send command to -server or Fuelcoind</source>
         <translation>Pošlji ukaz na -server ali blackoind</translation>
     </message>
     <message>
@@ -2653,13 +2653,13 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: hackcoin.conf)</source>
-        <translation>Določi konfiguracijsko datoteko (privzeto: hackcoin.conf)</translation>
+        <source>Specify configuration file (default: Fuelcoin.conf)</source>
+        <translation>Določi konfiguracijsko datoteko (privzeto: Fuelcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: hackcoind.pid)</source>
-        <translation>Določi pid datoteko (privzeto: hackcoin.pid)</translation>
+        <source>Specify pid file (default: Fuelcoind.pid)</source>
+        <translation>Določi pid datoteko (privzeto: Fuelcoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2808,8 +2808,8 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong hackcoin will not work properly.</source>
-        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno hackcoin ne bo deloval.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Fuelcoin will not work properly.</source>
+        <translation>Opozorilo: Prosimo preverite svoj datum in čas svojega računalnika! Če je vaša ura nastavljena napačno Fuelcoin ne bo deloval.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2998,24 +2998,24 @@ Ta oznaka se obarva rdeče, če je prioriteta manjša kot &quot;srednja&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=hackcoinrpc
+rpcuser=Fuelcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;hackcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Fuelcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, nastaviti morate rpcgeslo v konfiguracijski datoteki: 
  %s
 Priporočeno je, da uporabite naslednje naključno geslo:
-rpcuser=hackcoinrpc
+rpcuser=Fuelcoinrpc
 rpcpassword=%s
 (tega gesla si vam ni potrebno zapomniti)
 Uporabniško ime in geslo NE SMETA biti ista. 
 Če datoteka ne obstaja, jo ustvarite z lastniškimi dovoljenji za datoteke. 
 Prav tako je priporočeno, da nastavite alernotify, tkako da vas opozori na probleme;
-na primer: alertnotify=echo %%s | mail -s &quot;hackcoin Alarm&quot; admin@foo.com
+na primer: alertnotify=echo %%s | mail -s &quot;Fuelcoin Alarm&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3140,13 +3140,13 @@ na primer: alertnotify=echo %%s | mail -s &quot;hackcoin Alarm&quot; admin@foo.c
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  hackcoin is probably already running.</source>
-        <translation>Ni bilo mogoče najti podatkovnega imenika %s. Aplikacija hackcoin je verjetno že zagnana.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Fuelcoin is probably already running.</source>
+        <translation>Ni bilo mogoče najti podatkovnega imenika %s. Aplikacija Fuelcoin je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>hackcoin</source>
-        <translation>hackcoin</translation>
+        <source>Fuelcoin</source>
+        <translation>Fuelcoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3180,13 +3180,13 @@ na primer: alertnotify=echo %%s | mail -s &quot;hackcoin Alarm&quot; admin@foo.c
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of hackcoin</source>
-        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo hackcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Fuelcoin</source>
+        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo verzijo Fuelcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart hackcoin to complete</source>
-        <translation>Denarnica mora biti prepisana: ponovno odprite hackcoin za dokončanje</translation>
+        <source>Wallet needed to be rewritten: restart Fuelcoin to complete</source>
+        <translation>Denarnica mora biti prepisana: ponovno odprite Fuelcoin za dokončanje</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3255,8 +3255,8 @@ na primer: alertnotify=echo %%s | mail -s &quot;hackcoin Alarm&quot; admin@foo.c
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. hackcoin is probably already running.</source>
-        <translation>Navezava v %s  na tem računalniku ni mogoča hackcoin aplikacija je verjetno že zagnana.</translation>
+        <source>Unable to bind to %s on this computer. Fuelcoin is probably already running.</source>
+        <translation>Navezava v %s  na tem računalniku ni mogoča Fuelcoin aplikacija je verjetno že zagnana.</translation>
     </message>
     <message>
         <location line="-97"/>

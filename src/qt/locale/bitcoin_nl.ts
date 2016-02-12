@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About hackcoin</source>
-        <translation>Over hackcoin</translation>
+        <source>About Fuelcoin</source>
+        <translation>Over Fuelcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;hackcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;hackcoin&lt;/b&gt; versie</translation>
+        <source>&lt;b&gt;Fuelcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Fuelcoin&lt;/b&gt; versie</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The hackcoin developers</source>
+Copyright © 2014 The Fuelcoin developers</source>
         <translation>Copyright © 2009-2014 De Bitcoin ontwikkelaars
 Copyright © 2012-2014 De NovaCoin ontwikkelaars
-Copyright © 2014 De hackcoin ontwikkelaars</translation>
+Copyright © 2014 De Fuelcoin ontwikkelaars</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your hackcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dit zijn al jou hackcoin adressen om betalingen mee te ontvangen. Je kunt iedere verzender een apart adres geven zodat je kunt volgen wie jou betaald.</translation>
+        <source>These are your Fuelcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dit zijn al jou Fuelcoin adressen om betalingen mee te ontvangen. Je kunt iedere verzender een apart adres geven zodat je kunt volgen wie jou betaald.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a hackcoin address</source>
-        <translation>Teken een bericht om te bewijzen dat je een hackcoin adres bezit.</translation>
+        <source>Sign a message to prove you own a Fuelcoin address</source>
+        <translation>Teken een bericht om te bewijzen dat je een Fuelcoin adres bezit.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified hackcoin address</source>
-        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek hackcoin adres</translation>
+        <source>Verify a message to ensure it was signed with a specified Fuelcoin address</source>
+        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek Fuelcoin adres</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-58"/>
-        <source>hackcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>hackcoin zal nu sluiten om het versleutel proces te voltooien. Onthou dat het versleutelen van je portemonnee je niet volledig beschermt tegen diefstal van munten door malware op je computer.</translation>
+        <source>Fuelcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Fuelcoin zal nu sluiten om het versleutel proces te voltooien. Onthou dat het versleutelen van je portemonnee je niet volledig beschermt tegen diefstal van munten door malware op je computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about hackcoin</source>
-        <translation>Toon informatie over hackcoin</translation>
+        <source>Show information about Fuelcoin</source>
+        <translation>Toon informatie over Fuelcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a hackcoin address</source>
-        <translation>Verstuur munten naar een hackcoin adres</translation>
+        <source>Send coins to a Fuelcoin address</source>
+        <translation>Verstuur munten naar een Fuelcoin adres</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for hackcoin</source>
-        <translation>Verander configuratie opties voor hackcoin</translation>
+        <source>Modify configuration options for Fuelcoin</source>
+        <translation>Verander configuratie opties voor Fuelcoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-202"/>
-        <source>hackcoin</source>
-        <translation>hackcoin</translation>
+        <source>Fuelcoin</source>
+        <translation>Fuelcoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About hackcoin</source>
-        <translation>&amp;Over hackcoin</translation>
+        <source>&amp;About Fuelcoin</source>
+        <translation>&amp;Over Fuelcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>hackcoin client</source>
-        <translation>hackcoin client</translation>
+        <source>Fuelcoin client</source>
+        <translation>Fuelcoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to hackcoin network</source>
-        <translation><numerusform>%n actieve verbinding naar hackcoin netwerk</numerusform><numerusform>%n actieve verbindingen naar hackcoin netwerk</numerusform></translation>
+        <source>%n active connection(s) to Fuelcoin network</source>
+        <translation><numerusform>%n actieve verbinding naar Fuelcoin netwerk</numerusform><numerusform>%n actieve verbindingen naar Fuelcoin netwerk</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -584,13 +584,13 @@ Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in d
     </message>
     <message>
         <location line="-312"/>
-        <source>About hackcoin card</source>
-        <translation>Over hackcoin card</translation>
+        <source>About Fuelcoin card</source>
+        <translation>Over Fuelcoin card</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about hackcoin card</source>
-        <translation>Toon informatie over hackcoin card</translation>
+        <source>Show information about Fuelcoin card</source>
+        <translation>Toon informatie over Fuelcoin card</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -669,8 +669,8 @@ Adres: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid hackcoin address or malformed URI parameters.</source>
-        <translation>URI kan niet ontleedt worden! Mogelijke oorzaken zijn een ongeldig hackcoin adres of incorrecte URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Fuelcoin address or malformed URI parameters.</source>
+        <translation>URI kan niet ontleedt worden! Mogelijke oorzaken zijn een ongeldig Fuelcoin adres of incorrecte URI parameters.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -729,8 +729,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. hackcoin can no longer continue safely and will quit.</source>
-        <translation>Een fatale fout . hackcoin kan niet langer veilig doorgaan en sluit af.</translation>
+        <source>A fatal error occurred. Fuelcoin can no longer continue safely and will quit.</source>
+        <translation>Een fatale fout . Fuelcoin kan niet langer veilig doorgaan en sluit af.</translation>
     </message>
 </context>
 <context>
@@ -1063,8 +1063,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid hackcoin address.</source>
-        <translation>Het ingevoerde adres &quot;%1&quot; is geen geldig hackcoin adres.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Fuelcoin address.</source>
+        <translation>Het ingevoerde adres &quot;%1&quot; is geen geldig Fuelcoin adres.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1082,8 +1082,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>hackcoin-Qt</source>
-        <translation>hackcoin-Qt</translation>
+        <source>Fuelcoin-Qt</source>
+        <translation>Fuelcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1155,13 +1155,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start hackcoin after logging in to the system.</source>
-        <translation>Automatisch starten van hackcoin na inloggen van het systeem.</translation>
+        <source>Automatically start Fuelcoin after logging in to the system.</source>
+        <translation>Automatisch starten van Fuelcoin na inloggen van het systeem.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start hackcoin on system login</source>
-        <translation>&amp;Start hackcoin bij systeem aanmelding</translation>
+        <source>&amp;Start Fuelcoin on system login</source>
+        <translation>&amp;Start Fuelcoin bij systeem aanmelding</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1180,8 +1180,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the hackcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>De hackcoin client poort automatisch openen op de router. Dit werkt alleen wanneer uw router UPnP ondersteunt en deze is ingeschakeld.</translation>
+        <source>Automatically open the Fuelcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>De Fuelcoin client poort automatisch openen op de router. Dit werkt alleen wanneer uw router UPnP ondersteunt en deze is ingeschakeld.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1190,8 +1190,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the hackcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Verbinding maken met het hackcoin netwerk via een SOCKS proxy (bijvoorbeeld als U gebruik maakt van Tor)</translation>
+        <source>Connect to the Fuelcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Verbinding maken met het Fuelcoin netwerk via een SOCKS proxy (bijvoorbeeld als U gebruik maakt van Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1265,8 +1265,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting hackcoin.</source>
-        <translation>De user interface-taal kan hier ingesteld worden. Deze instelling word toegepast na hackcoin opnieuw op te starten.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Fuelcoin.</source>
+        <translation>De user interface-taal kan hier ingesteld worden. Deze instelling word toegepast na Fuelcoin opnieuw op te starten.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1280,8 +1280,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show hackcoin addresses in the transaction list or not.</source>
-        <translation>hackcoin adressen in de transactielijst weergeven of niet</translation>
+        <source>Whether to show Fuelcoin addresses in the transaction list or not.</source>
+        <translation>Fuelcoin adressen in de transactielijst weergeven of niet</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1327,8 +1327,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting hackcoin.</source>
-        <translation>Deze instelling word toegepast na een restart van hackcoin.</translation>
+        <source>This setting will take effect after restarting Fuelcoin.</source>
+        <translation>Deze instelling word toegepast na een restart van Fuelcoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1346,8 +1346,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the hackcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>De weergegeven informatie kan verouderd zijn, Je portemonnee synchroniseerd automatisch met het hackcoin netwerk nadat er verbindig is gemaakt, maar dit proces is nog niet voltooid.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Fuelcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>De weergegeven informatie kan verouderd zijn, Je portemonnee synchroniseerd automatisch met het Fuelcoin netwerk nadat er verbindig is gemaakt, maar dit proces is nog niet voltooid.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1562,8 +1562,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the hackcoin-Qt help message to get a list with possible hackcoin command-line options.</source>
-        <translation>Laat het hackcoin-QT help bericht zien om een lijst te krijgen met mogelijke hackcoin command-regel opties.</translation>
+        <source>Show the Fuelcoin-Qt help message to get a list with possible Fuelcoin command-line options.</source>
+        <translation>Laat het Fuelcoin-QT help bericht zien om een lijst te krijgen met mogelijke Fuelcoin command-regel opties.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1582,13 +1582,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>hackcoin - Debug window</source>
-        <translation>hackcoin - Debugscherm</translation>
+        <source>Fuelcoin - Debug window</source>
+        <translation>Fuelcoin - Debugscherm</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>hackcoin Core</source>
-        <translation>hackcoin Kern</translation>
+        <source>Fuelcoin Core</source>
+        <translation>Fuelcoin Kern</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1597,8 +1597,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the hackcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open het hackcoin debug log bestand van de huidige data map. Dit kan een paar seconden duren voor grote log bestanden.</translation>
+        <source>Open the Fuelcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open het Fuelcoin debug log bestand van de huidige data map. Dit kan een paar seconden duren voor grote log bestanden.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1607,8 +1607,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the hackcoin RPC console.</source>
-        <translation>Welkom bij de hackcoin RPC console.</translation>
+        <source>Welcome to the Fuelcoin RPC console.</source>
+        <translation>Welkom bij de Fuelcoin RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1766,8 +1766,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a hackcoin address (e.g. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Voeg een hackcoin adres in (bijv. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Fuelcoin address (e.g. FuelcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Voeg een Fuelcoin adres in (bijv. FuelcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1866,8 +1866,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid hackcoin address</source>
-        <translation>WAARSCHUWING: Ongeldig hackcoin adres</translation>
+        <source>WARNING: Invalid Fuelcoin address</source>
+        <translation>WAARSCHUWING: Ongeldig Fuelcoin adres</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1910,8 +1910,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Het adres om naar te betalen (bijv. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to send the payment to  (e.g. FuelcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Het adres om naar te betalen (bijv. FuelcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1940,8 +1940,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a hackcoin address (e.g. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Voeg een hackcoin adres in (bijv. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Fuelcoin address (e.g. FuelcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Voeg een Fuelcoin adres in (bijv. FuelcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1964,8 +1964,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Het adres om het bericht te ondertekenen (bijv. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2) </translation>
+        <source>The address to sign the message with (e.g. FuelcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Het adres om het bericht te ondertekenen (bijv. FuelcoinfwYhBmGXcFP2Po1NpRUEiK8km2) </translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2001,8 +2001,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this hackcoin address</source>
-        <translation>Teken een bericht om te bewijzen dat je een hackcoin adres bezit.</translation>
+        <source>Sign the message to prove you own this Fuelcoin address</source>
+        <translation>Teken een bericht om te bewijzen dat je een Fuelcoin adres bezit.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2028,13 +2028,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Het adres van het bericht is ondertekend met (bijv. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address the message was signed with (e.g. FuelcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Het adres van het bericht is ondertekend met (bijv. FuelcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified hackcoin address</source>
-        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek hackcoin adres</translation>
+        <source>Verify the message to ensure it was signed with the specified Fuelcoin address</source>
+        <translation>Verifieer een bericht om zeker te zijn dat deze is ondertekend met een specifiek Fuelcoin adres</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2044,8 +2044,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a hackcoin address (e.g. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Voeg een hackcoin adres in (bijv. hackcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Fuelcoin address (e.g. FuelcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Voeg een Fuelcoin adres in (bijv. FuelcoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2054,8 +2054,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter hackcoin signature</source>
-        <translation>Voer hackcoin handtekening in</translation>
+        <source>Enter Fuelcoin signature</source>
+        <translation>Voer Fuelcoin handtekening in</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2625,8 +2625,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>hackcoin version</source>
-        <translation>hackcoin versie</translation>
+        <source>Fuelcoin version</source>
+        <translation>Fuelcoin versie</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2635,8 +2635,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or hackcoind</source>
-        <translation>Verstuur commando naar -server of hackcoind</translation>
+        <source>Send command to -server or Fuelcoind</source>
+        <translation>Verstuur commando naar -server of Fuelcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2655,13 +2655,13 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: hackcoin.conf)</source>
-        <translation>Selecteer configuratie bestand (standaard: hackcoin.conf)</translation>
+        <source>Specify configuration file (default: Fuelcoin.conf)</source>
+        <translation>Selecteer configuratie bestand (standaard: Fuelcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: hackcoind.pid)</source>
-        <translation>Selecteer pid bestand (standaard: hackcoin.conf)</translation>
+        <source>Specify pid file (default: Fuelcoind.pid)</source>
+        <translation>Selecteer pid bestand (standaard: Fuelcoin.conf)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2810,8 +2810,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong hackcoin will not work properly.</source>
-        <translation>Waarschuwing: Controleer of de datum en tijd van de computer juist zijn! Als uw klok verkeerd is hackcoin zal niet goed werken.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Fuelcoin will not work properly.</source>
+        <translation>Waarschuwing: Controleer of de datum en tijd van de computer juist zijn! Als uw klok verkeerd is Fuelcoin zal niet goed werken.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3000,24 +3000,24 @@ Dit betekend dat een fee van %2 is vereist.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=hackcoinrpc
+rpcuser=Fuelcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;hackcoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Fuelcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, u moet een rpcpassword instellen in het configuratiebestand: 
 %s 
 Het wordt aanbevolen de volgende willekeurig wachtwoord gebruiken: 
-rpcuser = hackcoinrpc 
+rpcuser = Fuelcoinrpc 
 rpcpassword = %s 
 (je hoeft niet dit wachtwoord te onthouden) 
 De gebruikersnaam en het wachtwoord MAG NIET hetzelfde zijn. 
 Als het bestand niet bestaat, maakt u met leesbare-alleen-eigenaar bestandsbeheermachtigingen.  
 Het wordt ook aanbevolen om alertnotify instellen zodat u een melding van problemen;  
-bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;hackcoin Alert&quot; admin@foo.com </translation>
+bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;Fuelcoin Alert&quot; admin@foo.com </translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3141,13 +3141,13 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;hackcoin Alert&quot; admin@
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  hackcoin is probably already running.</source>
-        <translation>Kan een slot op data directory %s niet verkrijgen. hackcoin wordt waarschijnlijk al uitgevoerd.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Fuelcoin is probably already running.</source>
+        <translation>Kan een slot op data directory %s niet verkrijgen. Fuelcoin wordt waarschijnlijk al uitgevoerd.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>hackcoin</source>
-        <translation>hackcoin</translation>
+        <source>Fuelcoin</source>
+        <translation>Fuelcoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3181,13 +3181,13 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;hackcoin Alert&quot; admin@
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of hackcoin</source>
-        <translation>Fout bij laden van wallet.dat: Portemonnee vereist een nieuwere versie van hackcoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Fuelcoin</source>
+        <translation>Fout bij laden van wallet.dat: Portemonnee vereist een nieuwere versie van Fuelcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart hackcoin to complete</source>
-        <translation>Portemonnee moet herschreven worden: herstart hackcoin om te voltooien</translation>
+        <source>Wallet needed to be rewritten: restart Fuelcoin to complete</source>
+        <translation>Portemonnee moet herschreven worden: herstart Fuelcoin om te voltooien</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3256,8 +3256,8 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;hackcoin Alert&quot; admin@
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. hackcoin is probably already running.</source>
-        <translation>Niet mogelijk om %s op deze computer. hackcoin is waarschijnlijk al geopened.</translation>
+        <source>Unable to bind to %s on this computer. Fuelcoin is probably already running.</source>
+        <translation>Niet mogelijk om %s op deze computer. Fuelcoin is waarschijnlijk al geopened.</translation>
     </message>
     <message>
         <location line="-97"/>

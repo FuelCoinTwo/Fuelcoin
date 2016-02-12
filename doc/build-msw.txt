@@ -7,7 +7,7 @@ cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP
 software written by Thomas Bernard.
 
 
-See readme-qt.rst for instructions on building hackcoin QT, the
+See readme-qt.rst for instructions on building Fuelcoin QT, the
 graphical user interface.
 
 WINDOWS BUILD NOTES
@@ -76,9 +76,9 @@ make -f Makefile.mingw
 mkdir miniupnpc
 cp *.h miniupnpc/
 
-hackcoin
+Fuelcoin
 -------
 DOS prompt:
-cd \hackcoin\src
+cd \Fuelcoin\src
 mingw32-make -f makefile.mingw
-strip hackcoind.exe
+strip Fuelcoind.exe
